@@ -20,5 +20,9 @@
     "seattle"
   ],
   "author": "Spencer Daufeldt",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "normalize.css": "^8.0.0"
+  }
 }

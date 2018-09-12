@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    Background-color: blue;
+    font-family: 'Abel', sans-serif;
+}
+
+#container {
+    width: 90%;
+    background-color: white; 
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    float: left;
+    padding-left: 1em;
+}
+
+#search {
+    float: left;
+    padding: 1.55em;
+}
+
+#search input {
+    padding: 0.25em;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+
+}
+
+#navigation {
+    background-color: red;
+    
+}
+
+#navigation ul {
+    list-style: none;
+    padding: 0;
+}
+
+#navigation li {
+    float: left;
+    padding: 10px 20px;
+    border-right: 2px solid black;
+}
+
+#navigation li:hover{
+    background-color: white;
+    cursor: pointer; 
+}
