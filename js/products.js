@@ -7,7 +7,7 @@ var products = [
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Throwback Bears Jersey featuring Khalil Mack",
         brand: "Nike",
-        categories: ["men", "jersey", "bears"],
+        categories: ["youth", "jersey"],
         product_id: "C1900"
     },
 
@@ -50,8 +50,8 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Throwback Bears Jersey featuring Khalil Mack",
-        brand: "Nike",
-        categories: ["men", "jersey"],
+        brand: "Adidas",
+        categories: ["youth", "jersey"],
         product_id: "C1905"
     },
     
@@ -73,7 +73,7 @@ var products = [
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Carolina Panthers Home Jersey featuring Cam Newton",
         brand: "Adidas",
-        categories: ["men", "jersey"],
+        categories: ["youth", "jersey"],
         product_id: "C1907"
     },
     
@@ -83,7 +83,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Denver Broncos home jersey featuring Von Miller",
-        brand: "Nike",
+        brand: "Adidas",
         categories: ["men", "jersey"],
         product_id: "C1908"
     },
@@ -117,7 +117,7 @@ var products = [
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This the NY Giants Home Jersey featuring OBJ",
         brand: "Nike",
-        categories: ["men", "jersey"],
+        categories: ["women's", "jersey"],
         product_id: "C1911"
     },
     
@@ -127,7 +127,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Home Bengles Jersey featuring Aj Green",
-        brand: "Nike",
+        brand: "Jordan",
         categories: ["men", "jersey"],
         product_id: "C1912"
     },
@@ -138,7 +138,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Jaguars Home Jersey featuring Leonard Fornette",
-        brand: "Nike",
+        brand: "Jordan",
         categories: ["men", "jersey"],
         product_id: "C1913"
     },
@@ -149,8 +149,8 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Chargers Color rush Jersey featuring Melvin Gordon",
-        brand: "Nike",
-        categories: ["men", "jersey"],
+        brand: "Jordan",
+        categories: ["women's", "jersey"],
         product_id: "C1914"
     },
     
@@ -160,7 +160,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Ravens home Jersey featuring Lemar Jackson",
-        brand: "Nike",
+        brand: "Jordan",
         categories: ["men", "jersey"],
         product_id: "C1915"
     },
@@ -171,7 +171,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Falcons Home Alternate featuring Julio Jones",
-        brand: "Nike",
+        brand: "Adidas",
         categories: ["men", "jersey"],
         product_id: "C1916"
     },
@@ -182,7 +182,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Away Tennesee Titans featuring Akrum Wadley",
-        brand: "Nike",
+        brand: "Jordan",
         categories: ["men", "jersey"],
         product_id: "C1917"
     },
@@ -193,7 +193,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Home Washington Redskins Jersey featuring Adrian Peterson",
-        brand: "Nike",
+        brand: "Jordan",
         categories: ["men", "jersey"],
         product_id: "C1918"
     },
@@ -204,7 +204,7 @@ var products = [
         price: "120.00",
         sizes: ["s", "M", "L", "XL", "XXL", "XXL"],
         description: "This is the Home Bills Jersey featuring Josh Allen",
-        brand: "Nike",
+        brand: "Adidas",
         categories: ["men", "jersey"],
         product_id: "C1919"
     },

@@ -19,3 +19,17 @@ function setUpCategoryFilter() {
 };
 
 setUpCategoryFilter();
+
+function handleCategoryFilter() {
+    $('#category-filter').on('change', function() {
+        if($(this).val()) {
+            $('.product').hide();
+            $(`.product[data-categories*="${$(this).val()}"]`).fadeIn();
+        }
+        else {
+            $('.product').fadeIn();
+        }
+    });
+};
+
+handleCategoryFilter();
